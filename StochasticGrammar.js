@@ -1,4 +1,0 @@
-class StochasticGrammer extends LSystem{
-
-    
-}
