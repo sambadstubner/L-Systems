@@ -1,7 +1,9 @@
 system_types = {
   "FractalPlant": FractalPlant,
   "FTree": FTree,
-  "HilbertCurve": HilbertCurve
+  "HilbertCurve": HilbertCurve,
+  "KochCurve": KochCurve,
+  "SierpinskiTri": SierpinskiTri
 }
 
 let system;
